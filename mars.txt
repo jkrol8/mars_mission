@@ -1,1 +1,2 @@
 Mars is the target plannet for this mission.
+It is a cool planet
